@@ -1,3 +1,4 @@
+# Adding to my main.
 # GitHub Actions for deploying to Azure Functions
 
 |                    | master | dev |
